@@ -16,4 +16,4 @@ contributorJson
   });
 ```
 
-![](then-chains.png)
+<img src="then-chains.png" width="600">
